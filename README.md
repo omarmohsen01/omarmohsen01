@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohsne01&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohsne01" /> </p>
 
-- 🔭 I’m currently working on **multi-tenant systems, POS solutions, and advanced reporting dashboards**
+- 🔭 I’m currently working on **EBDAA DIGITAL TECHNOLOGY AS SOFTWARE ENGINEER**
 
-- 🌱 I’m currently learning **Laravel, Node.Js**
+- 🌱 I’m currently learning **All Topic Related By SoftWare**
 
-- 💬 Ask me about **Full Stack, PHP, Laravel,Mearn**
+- 💬 Ask me about **Full Stack, PHP, Laravel, Mearn**
 
 - 📫 How to reach me **omarmohsen769@gmail.com**
 
