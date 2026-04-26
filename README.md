@@ -1,26 +1,134 @@
-<h1 align="center">Hi 👋, I'm Omar Mohsen</h1>
-<h3 align="center">A Software Engineer, Work As Back-End Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarmohsne01&label=Profile%20views&color=0e75b6&style=flat" alt="omarmohsne01" /> </p>
+# Omar Mohsen
+### Backend Engineer · Laravel · Node.js · Microservices · AWS
+*Building production systems that scale — 1M+ users, 10K+ concurrency, sub-200ms response*
 
-- 🔭 I’m currently working on **EBDAA DIGITAL TECHNOLOGY AS SOFTWARE ENGINEER**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohsen-544411227/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarmohsen769@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/omarmohsen01)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@omarmohsen769)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/24577817)
 
-- 🌱 I’m currently learning **All Topic Related By SoftWare**
+</div>
 
-- 💬 Ask me about **Full Stack, PHP, Laravel, Mearn**
+---
 
-- 📫 How to reach me **omarmohsen769@gmail.com**
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/omarmohsen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omarmohsen01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-mohsen-544411227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-mohsen-544411227/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24577817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24577817" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/omar.mohsen74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.mohsen74" height="30" width="40" /></a>
-<a href="https://medium.com/@omarmohsen769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omarmohsen769" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omarmohsen769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omarmohsen769" height="30" width="40" /></a>
-</p>
+Full-stack backend engineer with **3+ years** designing and shipping production systems across the Gulf. I specialize in high-throughput API architecture, event-driven microservices, and real-time systems under load.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Shipped platforms serving **1M+ downloads** and **10,000+ concurrent users**
+- Engineered real-time WebSocket engines processing **10K+ daily events at <150ms**
+- Reduced SQL query times from **8s → 1.2s** on 500K+ record datasets
+- Integrated **legacy systems with zero downtime** across Gulf-region enterprise clients
+- Currently building assessment infrastructure for **10K+ concurrent users** at Ebdaa-DT (Qatar)
 
+**Stack:** PHP · Laravel · Node.js · TypeScript · RabbitMQ · WebSocket · AWS (EC2, S3, SQS) · MySQL · Redis · Docker · GitHub Actions
+
+---
+
+## Featured Projects
+
+### [MzadQatar](https://github.com/omarmohsne01) — Real-Time Auction Platform
+> **1M+ downloads · 800K+ users · iOS & Android**
+
+Real-time bidding platform built on Laravel/MySQL with a WebSocket auction engine handling **10,000+ daily bidding events at <150ms** under peak concurrency. Designed a scalable data model supporting personal and commercial listings with full bid lifecycle management and a push notification pipeline.
+
+`Laravel` `WebSocket` `MySQL` `Redis` `REST API` `Push Notifications`
+
+---
+
+### [Syaanh](https://github.com/omarmohsne01) — Home Maintenance Marketplace
+> **100K+ downloads · 50K+ users · Qatar**
+
+Event-driven microservices architecture using **RabbitMQ** for async inter-service communication across technician-dispatch and onboarding flows. Built a matching engine with a query layer optimized for **sub-200ms response** at scale. Designed dead-letter handling, retry policies, and a multi-role RBAC system managing technicians, providers, and end-users.
+
+`Laravel` `RabbitMQ` `Microservices` `MySQL` `RBAC` `Event-Driven Architecture`
+
+---
+
+### [Takse](https://github.com/omarmohsne01) — Ride-Hailing Platform
+> **Real-time dispatch · Multi-zone · iOS & Android**
+
+Full ride-hailing backend with **WebSocket-based in-app chat**, multi-zone driver dispatch, payment/wallet integration, and live fare negotiation engine.
+
+`Node.js` `WebSocket` `MySQL` `Payment Integration` `Real-Time Systems`
+
+---
+
+### [Almabtaker LMS](https://github.com/omarmohsne01) — Saudi Professional Training
+> **MATC · Saudi Arabia**
+
+Full-featured Learning Management System for course creation, enrollment workflows, and trainee progress tracking. Implemented **automated assessment scoring pipelines**, certificate generation, and role-based access for admins, instructors, and trainees.
+
+`Laravel` `MySQL` `RBAC` `Queue Systems` `Certificate Automation`
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Architecture & Messaging**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=omarmohsne01&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmohsne01&layout=compact&theme=default&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=omarmohsne01&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Currently
+
+- **Building** — Assessment infrastructure for 10K+ concurrent users at [Ebdaa-DT](https://ebdaa-dt.com), Qatar
+- **Exploring** — Distributed systems patterns, Kafka, and advanced AWS architectures
+- **Open to** — Backend / Full-Stack roles · Remote · Gulf region · Europe
+
+---
+
+<div align="center">
+<sub>Built systems at scale · Shipped to production · Ready for what's next</sub>
+</div>
